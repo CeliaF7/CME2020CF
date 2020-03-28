@@ -1,2 +1,2 @@
-# CME2020CF
-Coursework for the course Computational Methods in Ethnomusicology (KUG) 2020
+# Computational Methods in Ethnomusicology
+Material for the course Computational Methods in Ethnomusicology (KUG WS 2020)
